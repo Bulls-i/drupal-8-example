@@ -1,0 +1,1 @@
+*/5 * * * * cd /var/www/html/drupal && drush pqw && drush pqb
